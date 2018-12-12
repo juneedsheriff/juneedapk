@@ -1,0 +1,7 @@
+{
+  "name": "NRIApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
